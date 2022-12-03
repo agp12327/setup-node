@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../17747/.vscode/extensions/kaih2o.python-resource-monitor-0.1.9/node_modules/@npmcli/move-file/node_modules/mkdirp/bin"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"rebornix.ruby",
+			"formulahendry.docker-extension-pack"
+		]
+	}
+}
